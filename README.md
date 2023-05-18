@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Laurieny Estevo</h1>
 <h3 align="center">Passionate about solving problems through technology.</h3>
 
+- 📝 Currently, I am a student in the Desenvolve Program at Grupo Boticário, specializing in the full stack track.
+
 - 🌱 I’m currently learning **Angular, NodeJS**
 
 - 👨‍💻 All of my projects are available at [https://laurienyestevo.github.io/portfolio/](https://laurienyestevo.github.io/portfolio/)
